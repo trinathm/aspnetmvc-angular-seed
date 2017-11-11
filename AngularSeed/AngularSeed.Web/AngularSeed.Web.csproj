@@ -315,8 +315,14 @@
     <Content Include="Content\scss\common.scss" />
     <Content Include="Content\scss\custom-variables.scss" />
     <None Include="packages.config" />
+    <Content Include="Views\Home\App.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Scripts\app\app-routing.module.ts" />
+    <TypeScriptCompile Include="Scripts\app\app.component.ts" />
+    <TypeScriptCompile Include="Scripts\app\app.module.ts" />
+    <TypeScriptCompile Include="Scripts\app\dashboard\dashboard.service.ts" />
+    <TypeScriptCompile Include="Scripts\app\dashboard\dashboard.component.ts" />
     <TypeScriptCompile Include="Scripts\app\main.ts" />
   </ItemGroup>
   <ItemGroup>

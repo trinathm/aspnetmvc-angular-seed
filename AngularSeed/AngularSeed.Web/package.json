@@ -30,6 +30,8 @@
     "bootstrap": "4.0.0-beta.2"
   },
   "devDependencies": {
+    "@types/core-js": "^0.9.43",
+    "@types/node": "^7.0.8",
     "typescript": "^2.5.3",
     "gulp": "3.9.1",
     "gulp-clean-css": "3.9.0",
