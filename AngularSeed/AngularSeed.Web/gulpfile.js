@@ -24,7 +24,7 @@ gulp.task('vendor:polyfills', function () {
 gulp.task('vendor:libs', function () {
     return gulp.src([
         'node_modules/jquery/dist/jquery.min.js',
-        'node_modules/bootstrap/dist/js/bootstrap.min.js',
+        'node_modules/bootstrap/dist/js/bootstrap.bundle.js',
     ])
         .pipe(uglify())
         .pipe(concat('libraries.min.js'))

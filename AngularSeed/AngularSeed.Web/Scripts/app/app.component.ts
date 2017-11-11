@@ -5,5 +5,5 @@
     templateUrl: 'home/app'
 })
 export class AppComponent {
-    title = 'Angular Seed App';
+    title = 'ASP.NET MVC, Web API, Angular 5 & Bootstrap 4';
 }
