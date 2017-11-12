@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularSeed.Web", "AngularSeed.Web\AngularSeed.Web.csproj", "{BA8C57C1-6CEC-47E6-883E-1E95434DB273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularSeed.VSIX", "AngularSeed.VSIX\AngularSeed.VSIX.csproj", "{1D1D080C-E80F-4097-8D42-9592917AD890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BA8C57C1-6CEC-47E6-883E-1E95434DB273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA8C57C1-6CEC-47E6-883E-1E95434DB273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA8C57C1-6CEC-47E6-883E-1E95434DB273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1D080C-E80F-4097-8D42-9592917AD890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1D080C-E80F-4097-8D42-9592917AD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1D080C-E80F-4097-8D42-9592917AD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1D080C-E80F-4097-8D42-9592917AD890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
