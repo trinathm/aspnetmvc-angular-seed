@@ -33,7 +33,7 @@
     "@types/core-js": "^0.9.43",
     "@types/node": "^7.0.8",
     "typescript": "^2.5.3",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-clean-css": "3.9.0",
     "gulp-concat": "2.6.1",
     "gulp-uglify": "3.0.0",
